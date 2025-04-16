@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec 15 00:05:33 2020
-
-@author: Yu Zhe
-"""
-
 import os
 import sys
 import json
