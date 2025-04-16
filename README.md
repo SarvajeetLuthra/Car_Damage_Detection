@@ -77,7 +77,7 @@ python custom.py evaluate --dataset="D:/Tech Projects/car-damage-detection/Mask_
 The training schedule, learning rate, and other parameters should be set in `custom.py`.
 
 ## 5. Model Validation
-The model weights is inspected in [car-damage-detection.ipynb.ipynb](car-damage-detection.ipynb.ipynb).Link last training checkpoint for model for validation. This step performs a sanity check if your weights and biases are properly distributed.
+The model weights is inspected in [car-damage-detection.ipynb](car-damage-detection.ipynb).Link last training checkpoint for model for validation. This step performs a sanity check if your weights and biases are properly distributed.
 ![Validation](media/validation1.png)   
 
 ## 6. Prediction
