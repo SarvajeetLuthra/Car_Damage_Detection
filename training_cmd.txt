@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 16 00:05:58 2020
-
-@author: Yu Zhe
-"""
-
 ### Train the base model using pre-trained COCO weights
 python custom.py train --dataset="D:/Tech Projects/car-damage-detection/Mask_RCNN_damage_detector/" --weights=coco
 
