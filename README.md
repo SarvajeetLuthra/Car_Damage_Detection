@@ -31,7 +31,7 @@ Sample Image 1             |   Sample Image 2
 
 ## 2. Data Annotation
 A Mask R-CNN model requires the images in training dataset to be annotated, which is to have the region of damage in an image identified and the boundary of the damaged area marked accurately.
-An example of annotation tool is the [VGG Image Annotator(VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html). The annotations is then saved as a json format file in the [dataset](/dataset) directory.
+An example of annotation tool is the VGG Image Annotator(VIA). The annotations is then saved as a json format file in the [dataset](/dataset) directory.
 
 ## 3. Import dataset and Visualization
 This custom Mask R-CNN is built on top of Mask R-CNN.
