@@ -19,7 +19,7 @@ Mask R-CNN, extends Faster R-CNN by adding a branch for predicting an object mas
 A detailed description of how Mask R-CNNN works in available at How Mask R-CNN works 
 
 # Step by Step Application of Convolutional neural networks (CNN) in Automated detection of car exterior damages and subsequent quantification(damage severity)
-To help with debugging and understanding the model, [car-damage-detection.ipynb](car-damage-detection.ipynb.txt) provides visualizations and allow running the model step by step to inspect the output at each point. Here are the explanations:
+To help with debugging and understanding the model, [car-damage-detection.ipynb](car-damage-detection.ipynb) provides visualizations and allow running the model step by step to inspect the output at each point. Here are the explanations:
 
 
 ## 1. Data Collection
