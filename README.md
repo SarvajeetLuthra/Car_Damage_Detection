@@ -34,7 +34,7 @@ A Mask R-CNN model requires the images in training dataset to be annotated, whic
 An example of annotation tool is the [VGG Image Annotator(VIA)](https://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html). The annotations is then saved as a json format file in the [dataset](/dataset) directory.
 
 ## 3. Import dataset and Visualization
-This custom Mask R-CNN is built on top of [Matterport Mask R-CNN Github repository](https://github.com/matterport/Mask_RCNN).
+This custom Mask R-CNN is built on top of Mask R-CNN.
 
 Images and annotations from dataset will be loaded by the load_custom() function in CustomDataset Class.
 ![Load Dataset](media/load_function.PNG)
